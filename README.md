@@ -1,6 +1,6 @@
 ### hi! 👨🏻‍💻
 
-📛 my name is xander (he/they)
+📛 i'm xander (he/they)
 
 🐣 i'm a student at pomona college (c/o fall 2021)
 
