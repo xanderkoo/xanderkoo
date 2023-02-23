@@ -1,10 +1,10 @@
 ### hi! 👨🏻‍💻
 
-📛 i'm xander (he/they)
+📇 i'm xander (he/they)
 
-🐣 i'm a student at pomona college (c/o fall 2021)
+🐝 i'm a first year ph.d. student in human-centered computing at georgia tech
 
-🌱 computers are fun! looking to try out new creative stuff
+🦃 i graduated from pomona college in december 2021
 
 🌐 here's my website: [xanderk.ooo](https://xanderk.ooo/)
 
