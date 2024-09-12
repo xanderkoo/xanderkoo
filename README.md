@@ -1,14 +1,6 @@
-### hi! 👨🏻‍💻
+### yo
 
-📇 i'm xander (he/they)
-
-🐝 i'm a first year ph.d. student in human-centered computing at georgia tech
-
-🦃 i graduated from pomona college in december 2021
-
-🌐 here's my website: [xanderk.ooo](https://xanderk.ooo/)
-
-🗣 english/中文/日本語
+i'm xander! i am a phd student at georgia tech :D here's my website: [xanderk.ooo](https://xanderk.ooo/)
 
 <!--
 **xanderkoo/xanderkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
